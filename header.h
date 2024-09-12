@@ -2,3 +2,4 @@
 #define CONST 2
 #define NEWCONST 4
 #define Another 6
+#define YetAnotherConst 7
